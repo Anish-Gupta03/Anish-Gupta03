@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anish Gupta
 - 👀 I’m interested in Aritificial Intelligence (AI) and Machine Learning
-- 🌱 I’m currently learning C and improving on my JavaScript foundation
+- 🌱 I’m currently learning more about SQL
 - 💞️ I’m looking to collaborate on projects involving data science
 - 📫 How to reach me: anishgupta@umass.edu
 
